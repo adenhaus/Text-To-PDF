@@ -1,0 +1,69 @@
+/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/classes:/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/test-classes:/Users/adenhaussmann/.m2/repository/com/itextpdf/itext7-core/7.1.13/itext7-core-7.1.13.pom:/Users/adenhaussmann/.m2/repository/com/itextpdf/barcodes/7.1.13/barcodes-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/font-asian/7.1.13/font-asian-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/forms/7.1.13/forms-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/hyph/7.1.13/hyph-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/io/7.1.13/io-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/pdfa/7.1.13/pdfa-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/sign/7.1.13/sign-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/styled-xml-parser/7.1.13/styled-xml-parser-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/svg/7.1.13/svg-7.1.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/kernel/7.1.13/kernel-7.1.13.jar:/Users/adenhaussmann/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/adenhaussmann/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/adenhaussmann/.m2/repository/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13.jar:/Users/adenhaussmann/.m2/repository/com/itextpdf/layout/7.1.13/layout-7.1.13.jar:/Users/adenhaussmann/.m2/repository/org/slf4j/slf4j-log4j12/1.7.18/slf4j-log4j12-1.7.18.jar:/Users/adenhaussmann/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/adenhaussmann/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/adenhaussmann/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/src/test/java:/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'txttopdf 1 Test API'
+-use
+-version
+-windowtitle
+'txttopdf 1 Test API'
+txttopdf
+txttopdf
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/classes = 1609757345000
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/test-classes = 1609761793000
+/Users/adenhaussmann/.m2/repository/com/itextpdf/itext7-core/7.1.13/itext7-core-7.1.13.pom = 1606315505641
+/Users/adenhaussmann/.m2/repository/com/itextpdf/barcodes/7.1.13/barcodes-7.1.13.jar = 1606315506530
+/Users/adenhaussmann/.m2/repository/com/itextpdf/font-asian/7.1.13/font-asian-7.1.13.jar = 1606315506766
+/Users/adenhaussmann/.m2/repository/com/itextpdf/forms/7.1.13/forms-7.1.13.jar = 1606315506512
+/Users/adenhaussmann/.m2/repository/com/itextpdf/hyph/7.1.13/hyph-7.1.13.jar = 1606315506671
+/Users/adenhaussmann/.m2/repository/com/itextpdf/io/7.1.13/io-7.1.13.jar = 1606315506697
+/Users/adenhaussmann/.m2/repository/com/itextpdf/pdfa/7.1.13/pdfa-7.1.13.jar = 1606315506849
+/Users/adenhaussmann/.m2/repository/com/itextpdf/sign/7.1.13/sign-7.1.13.jar = 1606315506878
+/Users/adenhaussmann/.m2/repository/com/itextpdf/styled-xml-parser/7.1.13/styled-xml-parser-7.1.13.jar = 1606315506981
+/Users/adenhaussmann/.m2/repository/com/itextpdf/svg/7.1.13/svg-7.1.13.jar = 1606315507011
+/Users/adenhaussmann/.m2/repository/com/itextpdf/kernel/7.1.13/kernel-7.1.13.jar = 1606315506742
+/Users/adenhaussmann/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar = 1606315506730
+/Users/adenhaussmann/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar = 1606315507164
+/Users/adenhaussmann/.m2/repository/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13.jar = 1606315506485
+/Users/adenhaussmann/.m2/repository/com/itextpdf/layout/7.1.13/layout-7.1.13.jar = 1606315506832
+/Users/adenhaussmann/.m2/repository/org/slf4j/slf4j-log4j12/1.7.18/slf4j-log4j12-1.7.18.jar = 1606317579957
+/Users/adenhaussmann/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar = 1606317580055
+/Users/adenhaussmann/.m2/repository/junit/junit/4.11/junit-4.11.jar = 1606315507035
+/Users/adenhaussmann/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1606315507060
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/src/test/java/.DS_Store = 1609511469028
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/src/test/java = 1609762028000
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/generated-test-sources/test-annotations = 1606317387000
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/constant-values.html = 1609765862061
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/tag-search-index.js = 1609765862114
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/overview-tree.html = 1609765862079
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/module-search-index.js = 1609765862111
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/index.html = 1609765862127
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/package-search-index.js = 1609765862112
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/jquery-ui.overrides.css = 1609765862147
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/index-all.html = 1609765862116
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/allpackages-index.html = 1609765862125
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/deprecated-list.html = 1609765862087
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/member-search-index.js = 1609765862113
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/script.js = 1609765862135
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/stylesheet.css = 1609765862133
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/help-doc.html = 1609765862131
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/element-list = 1609765862043
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/allclasses-index.html = 1609765862122
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/type-search-index.js = 1609765862113
+/Users/adenhaussmann/Documents/Personal Projects/Text-To-PDF/txttopdf/target/testapidocs/search.js = 1609765862136

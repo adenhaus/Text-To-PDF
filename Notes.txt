@@ -1,0 +1,71 @@
+Algorithm:
+----------
+
+Text item class:
+   Holds the type of text
+
+Class where each object is a paragraph of text with its formatting.
+This is held in a list and once fully populated, each h item is added to the .pdf.
+
+NB - After getting commands and following text, need to determine if that is the end of the paragraph or not. Eg. .paragraph (starts new paragraph) vs .bold (same paragraph).
+
+Answer: If after text is (eg. ,bold) then just add to paragraph, else start new paragraph.
+
+JUNIT: fornatText test: check if properties of text created match the arguments.
+
+
+Read file
+Split on "\n"
+Add each string to an array
+Iterate over the array
+Loop:
+    Variable paragraph
+    Instantiate a counter = 0
+    If counter == array index
+        If string begins with new-para ".<command>"
+            Increment counter
+            Store command
+            Loop:
+                Look at next item
+                    If string begins with ".<command>"
+                        Increment counter
+                        Store command
+                    Else
+                        Break
+        Else if string begins with non-new-para ".<command>"
+            Increment counter
+            Store command
+        Else
+            Increment counter
+            Store text
+            Apply stored commands to text and write to .pdf
+            Clear the stored text and commands
+            Break
+    Else
+        Pass
+
+
+
+
+Class: FormattedParagraph
+Takes text and 
+
+Read file
+Split on "\n"
+Add each string to an array
+Create a new paragraph
+fillType
+fontSize
+fontType
+indent
+Iterate over the array
+Loop:
+    If string == .fill of .nofill or .regular or .bold or .italics or .indent
+        Set fillType of fontType or indent
+    Else if string == .paragraph
+        Create new paragraph
+    Else
+        Paragraph.add the text with appropriate formatting
+
+
+

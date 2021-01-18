@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"txttopdf","l":"TextFormatter"},{"p":"txttopdf","l":"TextToPdf"}];updateSearchResults();
